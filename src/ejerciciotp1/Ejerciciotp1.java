@@ -32,6 +32,7 @@ public class Ejerciciotp1 {
        }  
     }   
     
- 
+ //en el primer ejercicio trate de usar un while pero me tiraba el mensaje infinito, entonces elegi uan estructura de condicionales//
+    
     
 }
