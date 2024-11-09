@@ -16,7 +16,6 @@ public class ESCRIBIR {
             bw.newLine();  // Añadir un salto de línea
             bw.write("Línea 2");
         } catch (IOException e) {
-            e.printStackTrace();
         }
     }
 }
