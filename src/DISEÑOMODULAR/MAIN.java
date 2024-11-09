@@ -18,7 +18,7 @@ public class MAIN {
         System.out.print("Ingrese el saldo inicial: ");
         double initialBalance = scanner.nextDouble();
         
-        Customer customer = new Customer(name, initialBalance);
+        CUSTOMER customer = new CUSTOMER(name, initialBalance);
 
         boolean exit = false;
         while (!exit) {
@@ -56,4 +56,4 @@ public class MAIN {
         scanner.close();
     }
 }
-}
+
